@@ -1,3 +1,4 @@
+@ECHO OFF & :: prevents commands from displaying
 :: --- COMMENTS ---
 :: This is a comment
 REM This is another comment
